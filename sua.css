@@ -1,0 +1,14 @@
+.tieude{
+height: 100%;
+width: 100%;
+background-color: lightseagreen;
+
+}
+.vung{
+    background-color:gray;
+    font-size: 1.4rem;
+}
+.gui{
+    font-size: 2rem;
+    background-color: pink;
+}
